@@ -1,12 +1,12 @@
 # Diabetes Prediction Model/API
 
-This project was build to predict the probability of a person to have diabetes
+This project was built to predict the probability of a person having diabetes.
 
-# How to gerenate the model?
+## How to generate the model
 
-The aplicatio uses the [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) to train and validate the model.
+The application uses the [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) to train and validate the model.
 
-### Generate the model
+### Train and save the model
 
 ```bash
 python model.py
